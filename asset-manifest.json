@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mevikashComic/static/css/main.0112f07a.css",
+    "main.js": "/mevikashComic/static/js/main.1b675f2a.js",
+    "static/js/787.dd137d72.chunk.js": "/mevikashComic/static/js/787.dd137d72.chunk.js",
+    "static/media/back.jpg": "/mevikashComic/static/media/back.2e64efa4d69bc067a30e.jpg",
+    "static/media/back1.jpg": "/mevikashComic/static/media/back1.34652e3f955ea725e294.jpg",
+    "static/media/back2.jpg": "/mevikashComic/static/media/back2.80f823f02753aedf10e9.jpg",
+    "index.html": "/mevikashComic/index.html",
+    "main.0112f07a.css.map": "/mevikashComic/static/css/main.0112f07a.css.map",
+    "main.1b675f2a.js.map": "/mevikashComic/static/js/main.1b675f2a.js.map",
+    "787.dd137d72.chunk.js.map": "/mevikashComic/static/js/787.dd137d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0112f07a.css",
+    "static/js/main.1b675f2a.js"
+  ]
+}
