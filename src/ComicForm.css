@@ -1,0 +1,27 @@
+/* ComicForm.css */
+
+#panels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.panelTextField {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.generateButton {
+  width: 100%;
+}
+
+.generateButton:hover {
+  background-color: #4caf50; /* Green color on hover */
+  color: white;
+}
+
+.panelTextField:hover {
+  background-color: #f0f0f0; /* Light gray color on hover */
+  transition: background-color 0.3s ease;
+}
+
